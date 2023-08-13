@@ -6,7 +6,7 @@ This repository contains the code supplement to reproduce the experiments in our
 
 [Paper link][[1 min video](https://youtu.be/gTxGiogdhP4)]
 
-![This is an image](https://github.com/Dennishoftijzer/L-B_Augmentation/blob/master/gifs/Language-Based%20Augmentation.gif)
+![This is an image](gifs/Language-Based Augmentation.gif)
 
 We design an experiment for inserting a shortcut bias in the appearance of training environments for ObjectNav. As an example, we associate room types to specific wall colors (e.g., bedrooms with green walls), and observe poor generalization of a [SOTA ObjectNav method](https://github.com/allenai/embodied-clip) to environments where this is not the case (e.g., bedrooms with blue walls). We find that shortcut learning is the root cause: the agent learns to navigate to target objects, by simply searching for the associated wall color of the target object’s room. To solve this, we propose Language-Based Augmentation (L-B).
 
