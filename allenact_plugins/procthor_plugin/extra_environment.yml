@@ -1,0 +1,11 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - scikit-learn
+  - pip
+  - pip:
+      - prior
+      - --extra-index-url https://ai2thor-pypi.allenai.org 
+      - ai2thor==0+391b3fae4d4cc026f1522e5acf60953560235971
+      - Tensorboard
