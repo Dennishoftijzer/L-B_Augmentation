@@ -4,7 +4,7 @@ Dennis Hoftijzer, Gertjan Burghouts, Luuk Spreeuwers
 This repository contains the code supplement to reproduce the experiments in our paper. It is basically a fork of the [Allenact repo (v0.5.2)](https://github.com/allenai/allenact/tree/v0.5.2).
 
 
-[Paper link](https://arxiv.org/abs/2402.05090)[[1 min video](https://youtu.be/gTxGiogdhP4)]
+[[Paper link](https://arxiv.org/abs/2402.05090)][[1 min video](https://youtu.be/gTxGiogdhP4)]
 
 ![](https://github.com/Dennishoftijzer/L-B_Augmentation/blob/main/gifs/Language-Based%20Augmentation.gif)
 
