@@ -108,3 +108,16 @@ If you would like to vizualize episodes for different scenes than default:
 
 
 ## Citation
+BibTeX:
+```
+@INPROCEEDINGS{10473549,
+  author={Hoftijzer, Dennis and Burghouts, Gertjan and Spreeuwers, Luuk},
+  booktitle={2023 Seventh IEEE International Conference on Robotic Computing (IRC)}, 
+  title={Language-Based Augmentation to Address Shortcut Learning in Object-Goal Navigation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Training;Visualization;Navigation;Green products;Color;Search problems;Deep reinforcement learning;Vision-based Navigation;Deep Reinforcement;Learning;Vision-Language},
+  doi={10.1109/IRC59093.2023.00007}}
+```
